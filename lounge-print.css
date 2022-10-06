@@ -6,7 +6,8 @@ body {
   width: 700px;
 }
 
-h1, h2 {
+h1,
+h2 {
   color: black;
 }
 
@@ -30,7 +31,7 @@ h2 {
 }
 
 #elixirs {
-  font-family: Verdana, Helvetica, Arial, sans-serif; 
+  font-family: Verdana, Helvetica, Arial, sans-serif;
   width: 200px;
   background-color: #ffffff;
   background: url("images/elixirbackground.gif") repeat-x top center;
@@ -38,13 +39,20 @@ h2 {
   margin-left: 25px;
   color: #000000;
   border: thin double #007e7e;
-  text-align: center; 
+  text-align: center;
   font-size: 80%;
 }
 
-#elixirs a:link { color: #007e7e;}
-#elixirs a:visited { color: #333333;}
-#elixirs a:hover { background: #f88396; color: #0d5353;}
+#elixirs a:link {
+  color: #007e7e;
+}
+#elixirs a:visited {
+  color: #333333;
+}
+#elixirs a:hover {
+  background: #f88396;
+  color: #0d5353;
+}
 
 #elixirs h2 {
   color: #000000;
@@ -57,7 +65,7 @@ h2 {
 #elixirs img {
   padding-top: 20px;
 }
-	
+
 #elixirs p {
   line-height: 1em;
 }
@@ -77,6 +85,9 @@ h2 {
   font-style: italic;
 }
 
-body p a:link { color: #007e7e; }
-body p a:visited { color: #333333; }
-
+body p a:link {
+  color: #007e7e;
+}
+body p a:visited {
+  color: #333333;
+}

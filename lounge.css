@@ -27,12 +27,10 @@ h2 {
   border-style: dashed;
   background-color: #a7cece;
   padding: 25px;
+  padding-left: 80px;
   margin: 30px;
-  /*
-  padding-left:        80px;
-  margin-right:        250px;
-  background-image:    url(images/background.gif);
-  background-repeat:   no-repeat;
+  margin-right: 250px;
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
   background-position: top left;
-*/
 }
